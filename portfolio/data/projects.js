@@ -18,7 +18,7 @@ const data = [
     title: "Build Journal App for android",
     image: "/projects/android.png",
     description:
-      "Journal app made using Kotlin where crude operations can be done on the journal",
+      "Journal app made using Kotlin where crud operations can be done on the journal",
     skills: [],
     source_code: "https://github.com/Gaitho57/journal-android",
     demo: "http://www.demo.com/mydemo",
