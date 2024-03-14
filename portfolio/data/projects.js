@@ -11,7 +11,7 @@ const data = [
       { id: 3, name: "node", image: "/skills/node-js.png" },
     ],
     source_code: "https://github.com/Gaitho57/gamehub",
-    demo: "https://gamehub-nine-vert.vercel.app/",
+    demo: "https://dreamy-salamander-011dbf.netlify.app/",
   },
   {
     id: 2,
