@@ -18,6 +18,7 @@ const data = [
       { id: 8, name: "github", image: "/skills/git.png" },
     ],
   },
+  
 ];
 
 export default data;

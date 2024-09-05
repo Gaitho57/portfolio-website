@@ -1,5 +1,5 @@
 const data = {
   heading: "Hello Everyone",
-  bio: "I'm Michael Gaitho Kinene, a full-stack developer with a passion for using technology to create a more sustainable future. My skills in JavaScript, Python, C, React, Next, Express, and MongoDB fuel my development work, while my background in environmental science keeps me grounded in eco-conscious solutions.",
+  bio: "I am Michael Gaitho Kinene, a passionate and driven software engineer with a multifaceted background in full-stack development, innovative project execution, and educational outreach. My journey through technology has been defined by a deep curiosity and a commitment to making a tangible impact through code.",
 };
 export default data;

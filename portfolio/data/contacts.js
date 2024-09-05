@@ -35,11 +35,11 @@ const data = [
     label: "email",
     link: "mailto:kinenegaitho@gmail.com",
   },
-  {
+  /*{
     id: 7,
     name: "cv",
     label: "download cv",
     link: "/files/cv.pdf",
-  },
+  }*/,
 ];
 export default data;

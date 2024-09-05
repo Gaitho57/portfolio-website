@@ -3,7 +3,6 @@ const data = {
   name: "Michael Gaitho",
   jobTitle: "full stack & android developer",
   address: "Nairobi, Kenya",
-  experience: "two years of experience",
-  education: "Bsc Environmental Science",
+  education: "Certified Software Engineer",
 };
 export default data;

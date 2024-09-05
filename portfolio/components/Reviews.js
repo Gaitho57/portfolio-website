@@ -51,13 +51,7 @@ const Reviews = () => {
               className="bg-zinc-50 dark:bg-zinc-900 rounded-lg p-7 border border-zinc-100 dark:border-zinc-800"
             >
               <div className="flex gap-5">
-                <div className="relative w-[56px] h-[56px] rounded-full overflow-hidden">
-                  <Image
-                    src={rating.image}
-                    fill
-                    alt="client image"
-                    className="w-full h-full object-cover"
-                  />
+                <div className="relative w-[56px] h-[56px] rounded-full overflow-hidden">  
                 </div>
                 <div className="flex-1">
                   <h1 className="font-bold text-lg capitalize text-zinc-900 dark:text-zinc-300">

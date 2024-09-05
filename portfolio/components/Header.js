@@ -37,15 +37,6 @@ const Header = () => {
           />
           <HeaderInfo
             Icon={
-              <BsTerminalFill
-                className="text-violet-700 dark:text-zinc-400"
-                size={16}
-              />
-            }
-            title={experience}
-          />
-          <HeaderInfo
-            Icon={
               <IoIosSchool
                 className="text-violet-700 dark:text-zinc-400"
                 size={16}
