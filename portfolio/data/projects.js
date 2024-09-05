@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    title: "Gamehub clone (Next.js, Node.js and TypeScript)",
+    title: "Gamehub clone (Next.js, Node.js and TypeScript) press arrow to view code and demo",
     image: "/projects/game.png",
     description:
       "Explore a vast library of games with our user-friendly search that lets you filter by platform and sort by ratings. ",
